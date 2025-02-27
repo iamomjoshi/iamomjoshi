@@ -17,6 +17,8 @@ I explore the fine balance between breaking and securing, understanding how syst
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iamomjoshi&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com?user=iamomjoshi&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=5&order=3)<br/>
+![](https://github-readme-stats.vercel.app/api?username=iamomjoshi&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iamomjoshi&theme=chartreuse-dark&hide_border=false)<br/>
 
 ###
 # @From Linus_Torvald
