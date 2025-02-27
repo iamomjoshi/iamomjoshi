@@ -4,8 +4,9 @@
 
 <p align="left">I'm a Cybersecurity enthusiast and BSc IT student, passionate about ethical hacking, networking, and secure web development. I love exploring vulnerabilities, building security tools, and learning about real-world cyber threats</p>
 
-###
-# 👨🏻‍💻 About Me:
+#
+### `~# cat AboutMe`
+<a href="#"><img align="right" height=290 src="assets/tux.svg"></a>
 I explore the fine balance between breaking and securing, understanding how systems fail to make them stronger. I dive into ethical hacking, web security, network security, and full-stack development, breaking things apart to understand them and securing them to make them stronger. The internet is not just what we see on the surface. It is a complex system with hidden flaws waiting to be uncovered. Every vulnerability teaches me something new, every challenge pushes me further, and I am here to learn, adapt, and build solutions that matter. It is not just about finding weaknesses but understanding them at a deeper level.
 
 
