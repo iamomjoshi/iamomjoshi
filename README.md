@@ -1,4 +1,4 @@
-<h1 align="left" >&gt; Hey there, I'm Om Joshi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
+<h1 align="left" > › Hey there, I'm Om Joshi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 
 ###
 <p align="left">I'm a Cybersecurity enthusiast and BSc IT student, passionate about ethical hacking, networking, and secure web development. I love exploring vulnerabilities, building security tools, and learning about real-world cyber threats</p>
