@@ -1,8 +1,8 @@
-<h1 align="left">Hey, I am Om Joshi</h1>
+<h1 align="left" >Hey, I am Om Joshi</h1>
 
 ###
 
-<p align="left">I'm a cybersecurity enthusiast and B.Sc. IT student, passionate about ethical hacking, network security, and secure web development. I love exploring vulnerabilities, building security tools, and learning about real-world cyber threats</p>
+<p align="left">I'm a Cybersecurity enthusiast and BSc IT student, passionate about ethical hacking, networking, and secure web development. I love exploring vulnerabilities, building security tools, and learning about real-world cyber threats</p>
 
 ###
 # 👨🏻‍💻 About Me:
@@ -21,7 +21,7 @@ I explore the fine balance between breaking and securing, understanding how syst
 ![](https://nirzak-streak-stats.vercel.app/?user=iamomjoshi&theme=chartreuse-dark&hide_border=false)<br/>
 
 ###
-# @From Linus_Torvald
+# @From Linus Torvald
 <img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnQ2ZTFuanlrd2s3Z3o3NjhtNXVwaDNhMGRzYXA2d2U4ZTVmeGdveiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xndHaRIcvge5y/giphy.gif"/>
 
 ###
