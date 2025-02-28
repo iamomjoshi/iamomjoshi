@@ -6,13 +6,13 @@
 #
 <h2>›_ Terminal</h2>
 <pre style="background-color: black; padding: 10px; border-radius: 5px;">
-┌──(kali㉿root)-[~]
+┌──(kali㉿root)-[/www/github/iamomjoshi]
 └─$ pwd
 /www/github/iamomjoshi
-┌──(kali㉿root)-[~]
+┌──(kali㉿root)-[/www/github/iamomjoshi]
 └─$ ls
 aboutMe.txt  socialMedia  techStack  githubStats  Linus_Torvalds_msg.gif
-┌──(kali㉿root)-[~]
+┌──(kali㉿root)-[/www/github/iamomjoshi]
 └─$ /bin/sh
 ~#
 </pre>
