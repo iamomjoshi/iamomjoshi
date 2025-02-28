@@ -9,11 +9,14 @@
 ┌──(kali㉿root)-[/www/github/iamomjoshi]
 └─$ pwd
 /www/github/iamomjoshi
+  
 ┌──(kali㉿root)-[/www/github/iamomjoshi]
 └─$ ls
 aboutMe.txt  socialMedia  techStack  githubStats  Linus_Torvalds_msg.gif
+
 ┌──(kali㉿root)-[/www/github/iamomjoshi]
 └─$ /bin/sh
+
 ~#
 </pre>
 
